@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any MERN stack project.
 - 📫 Reach me through email.
 
+![](https://komarev.com/ghpvc/?username=junaaid96)
+
 <!---
 junaaid96/junaaid96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
