@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, cyber security and machine learning.
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on any MERN stack project.
-- 📫 Reach me through email.
+- 📫 Reach me through email or linkedIn.
 
 ![](https://komarev.com/ghpvc/?username=junaaid96)
 
