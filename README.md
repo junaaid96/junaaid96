@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaaid96&label=Profile%20views&color=0e75b6&style=flat" alt="junaaid96" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CP Profiles:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/dev_cyborg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dev_cyborg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dev-cyborg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dev-cyborg" height="30" width="40" /></a>
