@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Md. Junaidul Islam
+![Alt text](https://media.licdn.com/dms/image/D4D16AQFyNJQzgD_WRg/profile-displaybackgroundimage-shrink_350_1400/0/1703944732667?e=1720051200&v=beta&t=9qhKgatIRyuInkYa5v4GyjbIeM14kaSCeLyaga8C5t0)
+
+- 👋 Hi, I’m Md. Junaidul Islam.
 - 👀 I’m interested in software development, cyber security, and machine learning.
 - 🌱 I’m currently learning cloud computing using AWS.
 - 💞️ I am interested in collaborating on Django MVT, DRF, React, Nextjs projects.
