@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @junaaid96
+- 👋 Hi, I’m Md. Junaidul Islam
 - 👀 I’m interested in software development, cyber security, and machine learning.
 - 🌱 I’m currently learning cloud computing using AWS.
 - 💞️ I am interested in collaborating on Django MVT, DRF, React, Nextjs projects.
