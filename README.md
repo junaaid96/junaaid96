@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @junaaid96
 - 👀 I’m interested in software development, cyber security, and machine learning.
-- 🌱 I’m currently learning backend development with Python/Django.
-- 💞️ I’m looking to collaborate on any MERN stack project.
+- 🌱 I’m currently learning cloud computing using AWS.
+- 💞️ I am interested in collaborating on Django MVT, DRF, React, Nextjs projects.
 - 📫 Reach me through email or linkedIn.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaaid96&label=Profile%20views&color=0e75b6&style=flat" alt="junaaid96" /> </p>
