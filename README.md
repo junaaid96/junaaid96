@@ -28,8 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaaid96&theme=transparent&hide_border=true" alt="junaaid96" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=junaaid96&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+<!---## 🏆 GitHub Trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaaid96&no-bg=true&no-frame=true&margin-w=4" alt="junaaid96" /></a>--->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=junaaid96&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
