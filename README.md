@@ -29,7 +29,7 @@
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaaid96&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="junaaid96" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaaid96&theme=transparent&hide_border=true" alt="junaaid96" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=junaaid96&theme=transparent&hide_border=true" alt="junaaid96" /></p>
 
 <!---## 🏆 GitHub Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaaid96&no-bg=true&no-frame=true&margin-w=4" alt="junaaid96" /></a>--->
