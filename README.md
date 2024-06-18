@@ -3,10 +3,10 @@
 [![](https://visitcount.itsvg.in/api?id=junaaid96&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
-- 👋 Hi, I am Md. Junaidul Islam.
-- ⚡ I’m interested in software development, cyber security, and machine learning.
-- 🌱 I’m currently learning cloud computing using AWS.
-- 🚀 I am interested in collaborating on Django MVT, DRF, React, Nextjs projects.
+- 👋 Hi, I'm Md. Junaidul Islam.
+- ⚡ Passionate about software development, cyber security, and machine learning.
+- 🌱 Currently learning cloud computing using AWS.
+- 🚀 Interested in collaborating on Django MVT, DRF, React, Nextjs projects.
 - 📫 Reach me through email or linkedIn.
 - 👀 Fun Fact: "I am not great at the advice. Can I interest you in a sarcastic comment?"
 
