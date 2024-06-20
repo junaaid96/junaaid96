@@ -8,7 +8,7 @@
 - 🌱 Currently exploring cloud computing using AWS.
 - 🚀 Interested in collaborating on Django MVT, DRF, React, Nextjs projects.
 - 📫 Reach me through email or linkedIn.
-- 👀 *Fun Fact: "I am not great at the advice. Can I interest you in a sarcastic comment?"*
+- 👀 Fun Fact: "I am not great at the advice. Can I interest you in a sarcastic comment?"
 
 
 ## 👩‍💻 CP Profiles:
