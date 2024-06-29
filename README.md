@@ -6,7 +6,7 @@
 - 👋 Hi, I'm Md. Junaidul Islam.
 - ⚡ Passionate about software development, cyber security, and machine learning.
 - 🌱 Currently exploring cloud computing using AWS.
-- 🚀 Interested in collaborating on Django MVT, Django REST Framework, React, Nextjs projects.
+- 🚀 Interested in collaborating on Django MVT, Django REST Framework, React, Next.js projects.
 - 📫 Reach me through email or linkedIn.
 - 👀 Fun Fact: "I am not great at the advice. Can I interest you in a sarcastic comment?"
 
