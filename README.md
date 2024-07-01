@@ -1,4 +1,5 @@
-![Alt text](https://media.licdn.com/dms/image/D4D16AQFyNJQzgD_WRg/profile-displaybackgroundimage-shrink_350_1400/0/1703944732667?e=1720051200&v=beta&t=9qhKgatIRyuInkYa5v4GyjbIeM14kaSCeLyaga8C5t0)
+![github_cover_02](https://github.com/junaaid96/junaaid96/assets/75936347/3bf3a34a-35d6-4e70-835e-d30726c8cecc)
+
 
 [![](https://visitcount.itsvg.in/api?id=junaaid96&icon=1&color=12)](https://visitcount.itsvg.in)
 
