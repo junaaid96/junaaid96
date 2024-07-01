@@ -1,5 +1,4 @@
-![github_cover_02](https://github.com/junaaid96/junaaid96/assets/75936347/3bf3a34a-35d6-4e70-835e-d30726c8cecc)
-
+![github_cover_02](https://github.com/junaaid96/junaaid96/assets/75936347/3cd8acb0-adbe-4b24-a784-2b932c92aad9)
 
 [![](https://visitcount.itsvg.in/api?id=junaaid96&icon=1&color=12)](https://visitcount.itsvg.in)
 
