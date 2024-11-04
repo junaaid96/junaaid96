@@ -5,7 +5,7 @@
 ## 💫 About Me:
 - 👋 Hi, I'm Md. Junaidul Islam.
 - ⚡ Passionate about software development, cyber security, and machine learning.
-- 🌱 Currently exploring Java under my supervisor at the company.
+- 🌱 Currently exploring Java/Spring Boot under my supervisor at the company.
 - 🚀 Interested in collaborating on creating REST APIs, full-stack developement using Django REST Framework and React, Next.js.
 - 📫 Reach me through [email](mailto:info.junaidulislam@gmail.com) or [linkedIn](https://www.linkedin.com/in/md-junaidul-islam/).
 - 👀 Fun Fact: "I am not great at the advice. Can I interest you in a sarcastic comment?"
