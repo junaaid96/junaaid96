@@ -6,7 +6,7 @@
 ## 💫 About Me:
 - 👋 Hi, I'm Md. Junaidul Islam.
 - ⚡ Passionate about software development, cyber security, and machine learning.
-- 🌱 Currently doing company's project with Spring Boot and Angular.
+- 🌱 Currently doing company's project using Spring Boot and Angular.
 - 🚀 Interested in collaborating on creating APIs and full-stack development.
 - 📫 Reach me through [email](mailto:info.junaidulislam@gmail.com) or [linkedIn](https://www.linkedin.com/in/md-junaidul-islam/).
 - 👀 Fun Fact: "I am not great at the advice. Can I interest you in a sarcastic comment?"
