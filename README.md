@@ -1,6 +1,6 @@
 ![github_cover](https://github.com/user-attachments/assets/66c625cd-cf65-4447-b29e-d6fee7956d1b)
 
-[![](https://visitcount.itsvg.in/api?id=junaaid96&icon=1&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=junaaid96)
 
 ## 💫 About Me:
 - 👋 Hi, I'm Md. Junaidul Islam.
