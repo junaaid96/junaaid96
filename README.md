@@ -19,7 +19,8 @@
 - 🏗️ Love crafting systems using **Domain-Driven Design (DDD)**  
 - 📡 Advocate of **Event-Driven Architecture** for scalability & resilience  
 - 🚀 Open to collaborating on **APIs, full-stack apps & open-source**  
-- 📫 Reach me via [email](mailto:info.junaidulislam@gmail.com) or [LinkedIn](https://www.linkedin.com/in/md-junaidul-islam/)  
+- 📫 Reach me via [email](mailto:info.junaidulislam@gmail.com) or [LinkedIn](https://www.linkedin.com/in/md-junaidul-islam/)
+- 💻 Office GitHub: [github.com/junaid-egen](https://github.com/junaid-egen)
 - 👀 Fun Fact: *"I am not great at advice. Can I interest you in a sarcastic comment?"*  
 
 ---
