@@ -3,17 +3,22 @@
   <img src="https://github.com/user-attachments/assets/66c625cd-cf65-4447-b29e-d6fee7956d1b" alt="github_cover" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=junaaid96)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=junaaid96&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-# 👋 Hi, I'm Md. Junaidul Islam  
+# 👋 Hi, I'm Md. Junaidul Islam
 
-Software Engineer · Full-Stack Builder · Product & Systems Thinker
+<p align="center">
+  <b>Software Engineer · Full-Stack Builder · Product & Systems Thinker</b>
+</p>
 
 ---
 
 ## 💫 About Me
+
 - ⚡ A builder focused on solving meaningful problems with clean, scalable software  
 - 💡 I care more about solving **business challenges** than collecting tech stacks  
 - 🧠 Strong believer in **logic, simplicity, maintainability & ownership**  
@@ -23,8 +28,8 @@ Software Engineer · Full-Stack Builder · Product & Systems Thinker
 - 🔐 Interested in **security-first engineering** & resilient systems  
 - 📈 Always learning, improving & adapting  
 - 🌱 Currently building **enterprise apps** with **Spring Boot** & **Angular**  
-- 🚀 Open to collaborating on **APIs, full-stack apps & open-source**  
-- 📫 Reach me via [email](mailto:info.junaidulislam@gmail.com) or [LinkedIn](https://www.linkedin.com/in/md-junaidul-islam/)  
+- 🤝 Open to collaborating on **APIs, full-stack apps & open-source**  
+- 📫 Reach me via [email](mailto:info.junaidulislam@gmail.com) or [LinkedIn](https://www.linkedin.com/in/md-junaidul-islam/)
 
 ---
 
@@ -54,7 +59,7 @@ Software Engineer · Full-Stack Builder · Product & Systems Thinker
 
 ---
 
-## ☕ Coffee Powered Developer  
+## ☕ Coffee Powered Developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/☕-Coffee%20Driven-orange?style=for-the-badge" />
@@ -70,13 +75,16 @@ Software Engineer · Full-Stack Builder · Product & Systems Thinker
 ---
 
 ## 👩‍💻 CP Profiles
+
 <p align="center">
   <a href="https://www.hackerrank.com/dev_cyborg" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/dev-cyborg" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/dev-cyborg" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
   </a>
@@ -85,27 +93,54 @@ Software Engineer · Full-Stack Builder · Product & Systems Thinker
 ---
 
 ## 💻 Tech Stack and Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,react,nextjs,tailwind,python,django,nodejs,express,js,ts,cpp,c,html,css,bootstrap,postgresql,mysql,mongodb,sqlite,redis,git,linux,docker,aws,figma,postman,firebase,dart" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,react,nextjs,tailwind,python,django,nodejs,express,js,ts,cpp,c,html,css,bootstrap,postgresql,mysql,mongodb,sqlite,redis,git,linux,docker,aws,postman,firebase" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=junaaid96&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="junaaid96" /></p>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaaid96&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="junaaid96" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junaaid96&show_icons=true&locale=en&theme=transparent&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaaid96&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=junaaid96&theme=transparent&hide_border=true" alt="junaaid96" /></p>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=junaaid96&theme=transparent&hide_border=true" />
+</p>
 
-![](https://github-contributor-stats.vercel.app/api?username=junaaid96&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+<p align="center">
+  <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=junaaid96&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 📈 Additional Analytics
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=junaaid96&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=junaaid96&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</p>
 
 ---
 
 ## 💰 Support
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://paypal.me/junaideath)
+
+<p align="center">
+  <a href="https://paypal.me/junaideath">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" width="220" />
+  </a>
+</p>
