@@ -1,14 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/66c625cd-cf65-4447-b29e-d6fee7956d1b" alt="github_cover" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junaaid96&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 # 👋 Hi, I'm Md. Junaidul Islam
 
 <p align="center">
@@ -143,4 +132,10 @@
   <a href="https://paypal.me/junaideath">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" width="220" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=junaaid96&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
