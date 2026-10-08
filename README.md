@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-junaidul-islam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:info.junaidulislam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info.junaidulislam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/junaaid96?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/junaaid96?label=Follow&style=for-the-badge" /></a>
 </p>
 
@@ -29,7 +29,7 @@
 - 📈 Always learning, improving & adapting  
 - 🌱 Currently building **enterprise apps** with **Spring Boot** & **Angular**  
 - 🤝 Open to collaborating on **APIs, full-stack apps & open-source**  
-- 📫 Reach me via [email](mailto:info.junaidulislam@gmail.com) or [LinkedIn](https://www.linkedin.com/in/md-junaidul-islam/)
+- 📫 Reach me via <a href="mailto:info.junaidulislam@gmail.com" target="_blank">email</a> or <a href="https://www.linkedin.com/in/md-junaidul-islam/" target="_blank">LinkedIn</a>
 
 ---
 
@@ -266,8 +266,8 @@
 ## 💰 Support
 
 <p align="center">
-  <a href="https://paypal.me/junaideath">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" width="220" />
+  <a href="https://paypal.me/junaideath" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
 
