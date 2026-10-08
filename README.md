@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Md. Junaidul Islam
 
 <p align="center">
-  <b>Software Engineer · Full-Stack Builder · Product & Systems Thinker</b>
+  <b>Software Engineer · Full-Stack Builder · AI-Driven Developer · Product & Systems Thinker</b>
 </p>
 
 ---
@@ -13,6 +13,7 @@
 - 🧠 Strong believer in **logic, simplicity, maintainability & ownership**  
 - 🏗️ I design systems built to **last, scale & evolve**  
 - 🔥 Comfortable across **backend, frontend, database & architecture** layers  
+- 🤖 I build **AI-augmented** — agentic tools accelerate delivery, judgment stays human  
 - 🚀 Passionate about turning ideas into real products users depend on  
 - 🔐 Interested in **security-first engineering** & resilient systems  
 - 📈 Always learning, improving & adapting  
@@ -44,7 +45,83 @@
 ✅ Performance & Scalability Improvements  
 ✅ Legacy Refactoring & Modernization  
 ✅ Secure Engineering Practices  
+✅ AI-Augmented Delivery & Agentic Workflows  
 ✅ Ownership Mentality & Delivery Focus  
+
+---
+
+## 🤖 AI-Driven Development
+
+> How I build in 2026: **human judgment + agentic AI execution**. I own the system design — the agents accelerate delivery. Every line is still reviewed, tested & understood.
+
+### 🛠️ Agentic Coding Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://code.claude.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/claudecode-color.svg" width="48" height="48" alt="Claude Code" /></a><br /><b>Claude Code</b><br /><sub>Anthropic</sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://cursor.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/cursor.svg" width="48" height="48" alt="Cursor" /></a><br /><b>Cursor</b><br /><sub>Cursor</sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://grok.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/grok.svg" width="48" height="48" alt="Grok Bot" /></a><br /><b>Grok Bot</b><br /><sub>xAI</sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.meta.ai" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/meta-color.svg" width="48" height="48" alt="Muse Code" /></a><br /><b>Muse Code</b><br /><sub>Meta</sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://openai.com/codex" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/codex-color.svg" width="48" height="48" alt="Codex" /></a><br /><b>Codex</b><br /><sub>OpenAI</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok_Bot-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Muse_Code-0082FB?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge" />
+</p>
+
+### 🧠 Models I Build With
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/claude-color.svg" width="48" height="48" alt="Claude" /></a><br /><b>Claude</b><br /><sub>Anthropic</sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://cursor.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/cursor.svg" width="48" height="48" alt="Composer" /></a><br /><b>Composer</b><br /><sub>Agent Mode</sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://x.ai" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/grok.svg" width="48" height="48" alt="Grok" /></a><br /><b>Grok</b><br /><sub>xAI</sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.meta.ai" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/meta-color.svg" width="48" height="48" alt="Muse" /></a><br /><b>Muse</b><br /><sub>Meta · Muse Spark</sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://openai.com" target="_blank"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/openai.svg" width="48" height="48" alt="GPT" /></a><br /><b>GPT</b><br /><sub>OpenAI</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-000000?style=flat&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Muse-0082FB?style=flat&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-10A37F?style=flat" />
+</p>
+
+### ⚡ My AI Workflow
+
+**🧠 Plan → ⚡ Build → 🔍 Review → 🚀 Ship**
+
+- 🧠 **Plan & reason** with Claude — architecture, trade-offs, edge cases  
+- ⚡ **Build fast** with Cursor Composer & Codex agents — scaffolding, multi-file edits  
+- 🔍 **Review & harden** with Grok & Muse — second opinions, security, simplification  
+- 🚀 **Ship with ownership** — human-reviewed, tested & understood, every time  
 
 ---
 
