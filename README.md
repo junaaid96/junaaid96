@@ -1,7 +1,17 @@
-# 👋 Hi, I'm Md. Junaidul Islam
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Md.%20Junaidul%20Islam&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20AI-Driven%20Developer&descAlignY=60&descSize=18" />
 
 <p align="center">
-  <b>Software Engineer · Full-Stack Builder · AI-Driven Developer · Product & Systems Thinker</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;AI-Driven+Developer;Spring+Boot+%26+Angular+Builder;Problem+Solver+%E2%80%A2+Systems+Thinker" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-junaidul-islam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:info.junaidulislam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/junaaid96?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/junaaid96?label=Follow&style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=junaaid96&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -25,7 +35,7 @@
 
 ## 🧭 Engineering Philosophy
 
-**Understand Deeply → Design Clearly → Build Cleanly → Deliver Value → Improve Relentlessly**
+> **Understand Deeply → Design Clearly → Build Cleanly → Deliver Value → Improve Relentlessly**
 
 - Technology is only a tool — the problem domain comes first  
 - Prefer simple smart solutions over unnecessary complexity  
@@ -37,16 +47,13 @@
 
 ## 🛠️ What I Bring
 
-✅ Full-Stack Product Development  
-✅ Backend Architecture & APIs  
-✅ Frontend Systems & UI Logic  
-✅ Database Design & Optimization  
-✅ ERP / Workflow Software  
-✅ Performance & Scalability Improvements  
-✅ Legacy Refactoring & Modernization  
-✅ Secure Engineering Practices  
-✅ AI-Augmented Delivery & Agentic Workflows  
-✅ Ownership Mentality & Delivery Focus  
+|  |  |
+|---|---|
+| ✅ Full-Stack Product Development | ✅ Backend Architecture & APIs |
+| ✅ Frontend Systems & UI Logic | ✅ Database Design & Optimization |
+| ✅ ERP / Workflow Software | ✅ Performance & Scalability Improvements |
+| ✅ Legacy Refactoring & Modernization | ✅ Secure Engineering Practices |
+| ✅ AI-Augmented Delivery & Agentic Workflows | ✅ Ownership Mentality & Delivery Focus |
 
 ---
 
@@ -125,6 +132,18 @@
 
 ---
 
+## 💻 Tech Stack
+
+| Category | Skills |
+|:---:|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,c,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,linux,docker,aws,postman,firebase" /> |
+
+---
+
 ## ☕ Coffee Powered Developer
 
 <p align="center">
@@ -140,28 +159,26 @@
 
 ---
 
-## 👩‍💻 CP Profiles
+## 👩‍💻 Competitive Programming
 
 <p align="center">
   <a href="https://www.hackerrank.com/dev_cyborg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/dev-cyborg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/dev-cyborg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48" />
   </a>
 </p>
 
----
-
-## 💻 Tech Stack and Languages
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,react,nextjs,tailwind,python,django,nodejs,express,js,ts,cpp,c,html,css,bootstrap,postgresql,mysql,mongodb,sqlite,redis,git,linux,docker,aws,postman,firebase" />
+  <a href="https://www.leetcode.com/dev-cyborg" target="_blank">
+    <img width="60%" src="https://leetcard.jacoblin.cool/dev-cyborg?theme=transparent&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  </a>
 </p>
 
 ---
@@ -179,6 +196,49 @@
 
 <p align="center">
   <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=junaaid96&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- 
+  SETUP (one-time, in your junaaid96/junaaid96 profile repo):
+  1. Create .github/workflows/snake.yml with the workflow below
+  2. Push once, then run it from the Actions tab (or wait for the daily cron)
+  3. The snake SVGs will be published to the `output` branch and appear here
+
+  ---
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: junaaid96
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ---
+-->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junaaid96/junaaid96/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junaaid96/junaaid96/output/github-contribution-grid-snake.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/junaaid96/junaaid96/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---
@@ -213,6 +273,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junaaid96&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
