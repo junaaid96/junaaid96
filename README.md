@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Md.%20Junaidul%20Islam&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20AI-Driven%20Developer&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=230&section=header&text=Md.%20Junaidul%20Islam&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20AI-Driven%20Developer&descAlignY=60&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;AI-Driven+Developer;Spring+Boot+%26+Angular+Builder;Problem+Solver+%E2%80%A2+Systems+Thinker" />
@@ -273,4 +273,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F4E37&height=120&section=footer" />
