@@ -278,10 +278,6 @@
 
 ---
 
-<p align="center">
-  <sub>Last updated: October 15, 2026</sub>
-</p>
-
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:7E4323,100:B36B36&height=120&section=footer"
