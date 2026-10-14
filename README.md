@@ -128,10 +128,12 @@
 
 **🧠 Plan → ⚡ Build → 🔍 Review → 🚀 Ship**
 
-- 🧠 **Plan & reason** with Claude — architecture, trade-offs, edge cases  
-- ⚡ **Build fast** with Cursor Composer & Codex agents — scaffolding, multi-file edits  
-- 🔍 **Review & harden** with Grok & Muse — second opinions, security, simplification  
-- 🚀 **Ship with ownership** — human-reviewed, tested & understood, every time  
+- 🧠 **Plan:** reason through architecture, trade-offs & edge cases first  
+- ⚡ **Build:** scaffold & ship multi-file changes at full speed  
+- 🔍 **Review:** second opinions on security, correctness & simplification  
+- 🚀 **Ship:** human-reviewed, tested & understood, every time  
+
+> No fixed seats: I reach for whichever tool or model fits the task at hand. The bench above is my current lineup, and it evolves as the tools do.
 
 ---
 
