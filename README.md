@@ -145,7 +145,7 @@
 | **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,linux,docker,aws,postman,firebase" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,linux,docker,aws,postman,firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="48" alt="Swagger" /> |
 
 ---
 
