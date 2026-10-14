@@ -26,7 +26,7 @@
 - 🧠 Strong believer in **logic, simplicity, maintainability & ownership**  
 - 🏗️ I design systems built to **last, scale & evolve**  
 - 🔥 Comfortable across **backend, frontend, database & architecture** layers  
-- 🤖 I build **AI-augmented** — agentic tools accelerate delivery, judgment stays human  
+- 🤖 I build **AI-augmented**: agentic tools accelerate delivery, judgment stays human  
 - 🚀 Passionate about turning ideas into real products users depend on  
 - 🔐 Interested in **security-first engineering** & resilient systems  
 - 📈 Always learning, improving & adapting  
@@ -40,7 +40,7 @@
 
 > **Understand Deeply → Design Clearly → Build Cleanly → Deliver Value → Improve Relentlessly**
 
-- Technology is only a tool — the problem domain comes first  
+- Technology is only a tool: the problem domain comes first  
 - Prefer simple smart solutions over unnecessary complexity  
 - Write code future developers will thank you for  
 - Think beyond code: **users, business, reliability & growth**  
@@ -62,7 +62,7 @@
 
 ## 🤖 AI-Driven Development
 
-> How I build in 2026: **human judgment + agentic AI execution**. I own the system design — the agents accelerate delivery. Every line is still reviewed, tested & understood.
+> How I build in 2026: **human judgment + agentic AI execution**. I own the system design. The agents accelerate delivery. Every line is still reviewed, tested & understood.
 
 ### 🛠️ Agentic Coding Tools
 
@@ -159,7 +159,7 @@
 
 - ⚡ My IDE runs on caffeine  
 - ☕ Java = Coffee (and I run on both)  
-- 🛠️ I don’t just write code — I brew it  
+- 🛠️ I don’t just write code: I brew it  
 - 🚀 Strong coffee = Stronger backend systems  
 
 ---
