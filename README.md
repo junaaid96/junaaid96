@@ -178,7 +178,11 @@
 
 <p align="center">
   <a href="https://www.leetcode.com/dev-cyborg" target="_blank">
-    <img width="60%" src="https://leetcard.jacoblin.cool/dev-cyborg?theme=transparent&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/dev-cyborg?theme=dark&font=Fira%20Code&ext=heatmap" />
+      <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/dev-cyborg?theme=transparent&font=Fira%20Code&ext=heatmap" />
+      <img width="60%" src="https://leetcard.jacoblin.cool/dev-cyborg?theme=transparent&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+    </picture>
   </a>
 </p>
 
@@ -187,12 +191,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junaaid96&show_icons=true&locale=en&theme=transparent&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaaid96&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=junaaid96&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=junaaid96&show_icons=true&locale=en&theme=transparent&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junaaid96&show_icons=true&locale=en&theme=transparent&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=junaaid96&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=junaaid96&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaaid96&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=junaaid96&theme=transparent&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=junaaid96&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=junaaid96&theme=transparent&hide_border=true" />
+    <img width="70%" src="https://streak-stats.demolab.com?user=junaaid96&theme=transparent&hide_border=true" />
+  </picture>
 </p>
 
 <!-- Temporarily hidden: github-contributor-stats.vercel.app is down (Vercel DEPLOYMENT_DISABLED, HTTP 402). Uncomment to restore.
@@ -234,7 +250,11 @@
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  </picture>
 </p>
 
 ---
